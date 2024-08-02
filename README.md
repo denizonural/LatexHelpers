@@ -1,4 +1,4 @@
-1. Biblatex Cleanup
+# 1. bib_clear.py  -  Biblatex Cleanup
 
 Remove unwanted fields from bibitems in a .bib file. Created because citation manager doesn't have enough .bib export options about which secondary fields in bibitems should be excluded. This script will remove unwanted fields. The fields can be edited in the file. 
 
